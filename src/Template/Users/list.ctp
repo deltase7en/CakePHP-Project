@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>List</title>
+</head>
+<body>
+	<table>
+		<thead>
+			<tr>
+				<th>ID</th>
+				<th>Name</th>
+				<th>Email</th>
+				<th>Phone</th>
+				<th>Phone 2</th>
+				<th>Adress</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th></th>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>
